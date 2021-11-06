@@ -42,3 +42,11 @@ print(lsm.length)
 python -m unittest
 ```
 
+## License
+
+[MIT](https://github.com/shinshin86/py-lsm/blob/main/LICENSE)
+
+## Author
+
+[Yuki Shindo](https://shinshin86.com)
+
