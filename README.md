@@ -1,5 +1,7 @@
 # lsm
 
+[![Test](https://github.com/shinshin86/py-lsm/actions/workflows/test.yml/badge.svg)](https://github.com/shinshin86/py-lsm/actions/workflows/test.yml)
+
 This is a Python implementation of the **l**ocal**S**torage **m**ock.
 
 The behavior is not perfectly reproduced (The value returned when an unintended value is passed, for example), but the basic logic is implemented.
